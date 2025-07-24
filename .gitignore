@@ -1,0 +1,33 @@
+# MLX42 library (external dependency)
+MLX42/
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+fdf
+test_gnl_simple
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Test artifacts
+test_*.fdf
+temp_*.fdf 
